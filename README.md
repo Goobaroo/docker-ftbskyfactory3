@@ -1,4 +1,4 @@
-# [FTB Presents Skyfactory 3](https://feed-the-beast.com/modpack/ftb_presents_skyfactory_3) By FTB
+# [FTB Presents Skyfactory 3](https://feed-the-beast.com/modpack/25-ftb_presents_skyfactory_3) By FTB
 
 <!-- toc -->
 
