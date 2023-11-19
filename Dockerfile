@@ -18,7 +18,7 @@ WORKDIR /data
 EXPOSE 25565/tcp
 
 ENV MOTD "FTB Presents Skyfactory 3 v3.0.21 Server Powered by Docker"
-ENV LEVEL 
+ENV LEVEL world
 ENV JVM_OPTS "-Xms4096m -Xmx4096m"
 
 CMD ["/launch.sh"]
