@@ -5,7 +5,7 @@ FROM openjdk:8u312-jre-buster
 LABEL version="3.0.21"
 LABEL homepage.group=Minecraft
 LABEL homepage.name="FTB Presents Skyfactory 3"
-LABEL homepage.icon="https://apps.modpacks.ch/modpacks/art/18/skyfactory-3.png"
+LABEL homepage.icon="https://cdn.feed-the-beast.com/blob/b0/b0e989c9bdef8d8e289d9c679c7c68e6a6788129c8b605e342f598843dc52c27.png"
 LABEL homepage.widget.type=minecraft
 LABEL homepage.widget.url=udp://SkyFactory3:25565
 
